@@ -20,6 +20,7 @@ body {
 #text p {
   margin-top: 60px;
   display: inline-block;
+  font-weight: 600;
 }
 
 .container {
